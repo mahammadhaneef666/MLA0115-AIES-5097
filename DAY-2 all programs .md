@@ -113,6 +113,8 @@ def main():
 `    `main() 
 
 **OUTPUT** 
+
+
 ![WhatsApp Image 2024-09-19 at 10 13 27 AM](https://github.com/user-attachments/assets/ac9a4c50-f788-4537-84cf-194037fe3e2b)
 
 
@@ -184,7 +186,9 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 **output** 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.002.png)
+
+![WhatsApp Image 2024-09-19 at 10 13 27 AM (1)](https://github.com/user-attachments/assets/847f62bf-e5f5-4f33-8cfa-4de68eed47a1)
+
 
 **8)AIM:**Depth-First Search (DFS) 
 
@@ -260,7 +264,9 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 **output** 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.003.jpeg)
+
+![WhatsApp Image 2024-09-19 at 10 13 27 AM (2)](https://github.com/user-attachments/assets/4b4689e0-56d1-4b1d-abf5-267c5dac38ec)
+
 
 **9)AIM:**Travelling Salesman Problem (TSP) ALGORITHM: 
 
@@ -332,7 +338,9 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 OUTPUT: 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.004.png)
+
+![WhatsApp Image 2024-09-19 at 10 13 27 AM (3)](https://github.com/user-attachments/assets/9ccd65f1-179c-445a-b775-1abbd845a514)
+
 
 **10)AIM:**A\* Algorithm 
 
@@ -450,4 +458,6 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 **OUTPUT:** 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.005.png)
+
+![WhatsApp Image 2024-09-19 at 10 13 27 AM (4)](https://github.com/user-attachments/assets/94424671-5cdc-4e20-bf7e-6729fd82cb33)
+
